@@ -1,1 +1,1 @@
-Este proyecto es una prueba de como crear un repositorio y clonearlo desde github a la computadora   
+yo juan carlos cruz chacon soy el mejor programador del mundo
